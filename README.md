@@ -2,12 +2,9 @@
 
 Skills:
 
-```
+
 <div id="badges">
     <img src="https://img.shields.io/badge/Java?labelColor=white&color=%23474B2A" alt="LinkedIn Badge"/>
-
-    <img src=""https://img.shields.io/badge/Java?labelColor=white&color=%23474B2A" alt="LinkedIn Badge"/>
-    <img src=""https://img.shields.io/badge/Java?labelColor=white&color=%23474B2Ae" alt="LinkedIn Badge"/>
 </div>
-```
+
 
